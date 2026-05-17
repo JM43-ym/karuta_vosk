@@ -1,0 +1,6 @@
+﻿.venv/
+model_small/
+model_standard/
+recordings/
+*.wav
+.ipynb_checkpoints/
