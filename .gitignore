@@ -4,3 +4,4 @@ model_standard/
 recordings/
 *.wav
 .ipynb_checkpoints/
+*.csv
