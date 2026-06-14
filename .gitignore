@@ -5,3 +5,4 @@ recordings/
 *.wav
 .ipynb_checkpoints/
 results/
+dictionary_pra/
