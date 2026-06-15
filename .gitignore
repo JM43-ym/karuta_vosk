@@ -3,6 +3,7 @@ model_small/
 model_standard/
 recordings/
 *.wav
+*.png
 .ipynb_checkpoints/
 results/
 dictionary_pra/
