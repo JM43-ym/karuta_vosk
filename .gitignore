@@ -4,6 +4,7 @@ model_standard/
 recordings/
 *.wav
 *.png
+*.txt
 .ipynb_checkpoints/
 results/
 dictionary_pra/
