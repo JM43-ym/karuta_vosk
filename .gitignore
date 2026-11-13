@@ -8,4 +8,4 @@ dictionary_pra/
 mfcc_4block_folders/
 recordings/
 texts/
-*.txt
+text_logs/
