@@ -152,3 +152,8 @@ dependencies = [
     "widgetsnbextension==4.0.15",
     "wrapt==2.2.2",
 ]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.2.0",
+]

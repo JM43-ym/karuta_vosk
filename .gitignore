@@ -9,3 +9,5 @@ mfcc_4block_folders/
 recordings/
 texts/
 text_logs/
+.venv-pip-backup/
+.venv-uv/
