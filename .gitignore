@@ -3,4 +3,9 @@ model_small/
 model_standard/
 .ipynb_checkpoints/
 dictionary_pra/
-*
+*.wav
+*.png
+mfcc_4block_folders/
+recordings/
+texts/
+*.txt
